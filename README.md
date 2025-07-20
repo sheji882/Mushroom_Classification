@@ -1,4 +1,3 @@
-# Mushroom_Classification
 # Mushroom Classification Using Machine Learning
 
 This project is a comprehensive machine learning pipeline to classify mushrooms as **edible or poisonous** based on their physical characteristics. It covers everything from data preprocessing and exploratory data analysis to model training, evaluation, and deployment-ready prediction on unseen data.
